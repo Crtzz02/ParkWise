@@ -36,6 +36,7 @@ Want to try it out on your own machine? It's super easy!
 * **[Next.js](https://nextjs.org/)** - For lightning-fast routing and React features.
 * **[TailwindCSS](https://tailwindcss.com/)** - For gorgeous, utility-first styling.
 * **[Supabase](https://supabase.com/)** - Providing rock-solid database and authentication.
+* **[MQTT](https://mqtt.org/)** - For seamless, real-time messaging and IoT communication.
 * **[Framer Motion](https://www.framer.com/motion/) & [React To particles](https://particles.js.org/)** - For the buttery-smooth animations and backgrounds!
 
 ---
